@@ -1,5 +1,7 @@
 First line
+(create a new branch, add a document to that)
 
 Second line
+(edit first_doc in both branches to create conflict)
 
 Third line
