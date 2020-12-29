@@ -14,3 +14,6 @@ will pop up in the folder instead of the 'main' files.)
 
 
 Added this one in local repo, at the same spot as github line in "main"
+
+CONFLICT WAS RESOLVED, CONTENT FROM BOTH first_docs WAS MERGED SO THAT THE SECTION FROM ONE 
+FOLLOWED THE SECTION FROM THE OTHER (LINES 9-13 AND 16 RESP.)
