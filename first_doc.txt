@@ -5,3 +5,5 @@ Second line
 (edit first_doc in both branches to create conflict)
 
 Third line
+
+Added this one through github, to have something to pull
