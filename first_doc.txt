@@ -7,3 +7,7 @@ Second line
 Third line
 
 Added this one through github, to have something to pull
+Added a line underneath this to remind me: the local folder will reflect
+the branch that you are working on within GitKraken (I'm in 'main' now, so this
+is main/first_doc.txt, but if I switch to 'NewDev', the branch-specific txt files
+will pop up in the folder instead of the 'main' files.)
