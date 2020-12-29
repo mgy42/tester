@@ -1,0 +1,3 @@
+Branch 2
+
+change sg in first_doc in main branch AND in this branch (but diff things to create conflict)

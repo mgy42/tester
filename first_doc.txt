@@ -11,3 +11,6 @@ Added a line underneath this to remind me: the local folder will reflect
 the branch that you are working on within GitKraken (I'm in 'main' now, so this
 is main/first_doc.txt, but if I switch to 'NewDev', the branch-specific txt files
 will pop up in the folder instead of the 'main' files.)
+
+
+Added this one in local repo, at the same spot as github line in "main"
