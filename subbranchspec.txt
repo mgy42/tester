@@ -1,1 +1,8 @@
 Specific to sub-branch of branch 1
+
+(okay, I'm not sure how to edit this file via GitKraken now that
+the main branch of this subbranch (NewDev) has been merged into 
+"main". I could merge SubDev into main by going to the main branch
+then right clicking on SubDev and then selecting merge into main, 
+but that's not what I want at the moment. Maybe this will forever
+be a dead-end subbranch now.)
